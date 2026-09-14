@@ -1,0 +1,25 @@
+name: stats_course
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
+  - astropy
+  - pandas
+  - emcee
+  - jax
+  - flax
+  - jaxopt
+  - optax
+  - tqdm
+  - tinygp
+  - numpyro
+  - arviz
+  - corner
+  - dynesty
+  - getdist
+  - pip
+  - pip:
+    - tensorflow-probability[jax]
