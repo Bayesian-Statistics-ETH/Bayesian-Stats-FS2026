@@ -1,7 +1,12 @@
-# Bayesian-Stats-FS2026
-Bayesian Statistics and Data Analysis, Fall 2026, ETH Zürich
+# Bayesian-Stats-HS2026
+Bayesian Statistics and Data Analysis, Herbstsemester 2026, ETH Zürich
 
-![](assets/BT.png)
+<table>
+  <tr>
+    <td width="45%" valign="middle"><img src="assets/BT.png" alt="Bayes' theorem"></td>
+    <td width="55%" valign="middle"><img src="assets/bayesian_sampling.gif" alt="Metropolis-Hastings sampling a two-dimensional posterior"></td>
+  </tr>
+</table>
 
 ## About this course
 This course is taught in the fall term 2026 at ETH Zurich By Patrick Meyers, assisted by Uddipta Bhardwaj and Giada Badaracco.
